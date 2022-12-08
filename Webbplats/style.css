@@ -1,0 +1,41 @@
+body {
+    font-family: Century Gothic, Helvetica, sans-serif;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+
+  #logo {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  #coursetable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #coursetable td, #coursetable th {
+    border: 0px;
+    padding: 8px;
+  }
+  
+  #coursetable tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #coursetable tr:hover {background-color: #ddd;}
+  
+  #coursetable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #625173;
+    color: white;
+  }
