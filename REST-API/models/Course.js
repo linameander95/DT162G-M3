@@ -11,11 +11,11 @@ const courseSchema = mongoose.Schema({
     },
     courseplan: {
         type: String,
-        required: true
+        required: false
     },
     courseprogression: {
         type: String,
-        required: true
+        required: false
     },
     courseterm: {
         type: String,

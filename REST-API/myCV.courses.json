@@ -1,0 +1,91 @@
+[{
+  "coursename": "Webbutveckling I",
+  "coursecode": "DT057G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22782",
+  "courseprogression": "A",
+  "courseterm": "HT21"
+},
+{
+  "coursename": "Typografi och form för webb",
+  "coursecode": "GD008G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24399",
+  "courseprogression": "A",
+  "courseterm": "HT21"
+},
+{
+  "coursename": "Digital bildbehandling för webb",
+  "coursecode": "DT163G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24403",
+  "courseprogression": "A",
+  "courseterm": "HT21"
+},
+{
+  "coursename": "Introduktion till programmering i JavaScript",
+  "coursecode": "DT084G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31961",
+  "courseprogression": "A",
+  "courseterm": "HT21"
+},
+{
+  "coursename": "Webbanvändbarhet",
+  "coursecode": "DT068G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30823",
+  "courseprogression": "A",
+  "courseterm": "HT21"
+},
+{
+  "coursename": "Webbutveckling II",
+  "coursecode": "DT093G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=27133",
+  "courseprogression": "B",
+  "courseterm": "VT22"
+},
+{
+  "coursename": "Databaser",
+  "coursecode": "DT003G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21595",
+  "courseprogression": "A",
+  "courseterm": "VT22"
+},
+{
+  "coursename": "Webbdesign för CMS",
+  "coursecode": "DT197G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31942",
+  "courseprogression": "A",
+  "courseterm": "VT22"
+},
+{
+  "coursename": "Webbutveckling III",
+  "coursecode": "DT173G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31475",
+  "courseprogression": "B",
+  "courseterm": "VT22"
+},
+{
+  "coursename": "Fullstack-webbutveckling med ramverk",
+  "coursecode": "DT193G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31728",
+  "courseprogression": "B",
+  "courseterm": "HT22"
+},
+{
+  "coursename": "Projektledning",
+  "coursecode": "IK060G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31886",
+  "courseprogression": "A",
+  "courseterm": "HT22"
+},
+{
+  "coursename": "Javascriptbaserad Webbutveckling",
+  "coursecode": "DT162G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24366",
+  "courseprogression": "B",
+  "courseterm": "HT22"
+},
+{
+  "coursename": "Programmering i C#.NET",
+  "coursecode": "DT071G",
+  "courseplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=25557",
+  "courseprogression": "A",
+  "courseterm": "HT22"
+}]

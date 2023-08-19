@@ -1,41 +1,97 @@
 body {
-    font-family: Century Gothic, Helvetica, sans-serif;
+  font-family: Century Gothic, Helvetica, sans-serif;
 }
-h1 {
-    display: block;
-    font-size: 2em;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-  }
 
-  #logo {
-    position: relative;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-  }
-  #coursetable {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  #coursetable td, #coursetable th {
-    border: 0px;
-    padding: 8px;
-  }
-  
-  #coursetable tr:nth-child(even){background-color: #f2f2f2;}
-  
-  #coursetable tr:hover {background-color: #ddd;}
-  
-  #coursetable th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #625173;
-    color: white;
-  }
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+#logo {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+#coursetable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#coursetable td,
+#coursetable th {
+  border: 0px;
+  padding: 8px;
+}
+
+#coursetable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#coursetable tr:hover {
+  background-color: #ddd;
+}
+
+#coursetable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #625173;
+  color: white;
+}
+
+#addcourse {
+  width: 50vw;
+  margin: auto;
+}
+
+#addform {
+  display: block;
+  background: #a694ba;
+  width: 100%;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 4px;
+}
+
+input[type=text], select {
+  display: block;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #625173;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+input[type=submit]:hover {
+  background-color: #756585;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+#deletebtn {
+  cursor: pointer;
+}

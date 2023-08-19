@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>REST-API</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet"
+    type='text/css'>
   <link href="style.css" rel="stylesheet" />
-  <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </head>
-<body>
-    <div id="courses">
-<img id="logo" src="logo.png">
-    </div>
+
+<body onload="getCourses()">
+  <div id="courses">
+    <img id="logo" src="logo.png">
+  </div><br>
+  <div id="addcourse">
+    <form id="addform" onsubmit="addCourse()">
+      <label for="coursecode">Kurskod:</label><br>
+      <input type="text" id="coursecode" name="coursecode"><br>
+      <label for="coursename">Kursnamn:</label><br>
+      <input type="text" id="coursename" name="coursename"><br>
+      <label for="courseterm">Kursperiod:</label><br>
+      <input type="text" id="courseterm" name="courseterm"><br>
+      <input type="submit" value="Submit">
+    </form>
+  </div>
   <script src="script.js"></script>
   <script>
   </script>
 </body>
+
 </html>
