@@ -12,7 +12,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-//get one
+//Get one
 router.get('/:id', getCourse, (req, res) => {
     res.json(res.course)
 });

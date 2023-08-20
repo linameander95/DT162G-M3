@@ -8,13 +8,15 @@
     type='text/css'>
   <link href="style.css" rel="stylesheet" />
 </head>
-
+<!-- Creating the main content of the website, including the form for adding a new course -->
+<!-- Triggering the function to fetch courses on load -->
 <body onload="getCourses()">
   <div id="courses">
     <img id="logo" src="logo.png">
   </div><br>
   <div id="addcourse">
-    <form id="addform" onsubmit="addCourse()">
+    <!-- Triggering the function to add a course on submit -->
+    <form id="addform" onsubmit="addCourse()"> 
       <label for="coursecode">Kurskod:</label><br>
       <input type="text" id="coursecode" name="coursecode"><br>
       <label for="coursename">Kursnamn:</label><br>
